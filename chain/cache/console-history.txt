@@ -1,0 +1,63 @@
+console.log("Registration successful!");
+await supplyChain.registerStakeholder(yourAddress, 0);
+// Register as Farmer (role 0)
+const yourAddress = "0x0B08F2639Ff1bDc4AA855C640E4273EB1397A93f";
+// Replace with your wallet address
+const supplyChain = await SupplyChain.attach("0x363E5231B0fED6A3dABEc682bD1233a879d267c9");
+const SupplyChain = await ethers.getContractFactory("SupplyChain");
+// console.log("Role:", role); // Should be 0 for Farmer
+// console.log("Is registered:", isRegistered);
+// const [isRegistered, role] = await contract.getStakeholderInfo(yourAddress);
+// // Check registration
+// const contract = new ethers.Contract(contractAddress, abi, provider);
+// const provider = new ethers.BrowserProvider(window.ethereum);
+// // Connect to contract
+// ];
+//     "function getStakeholderInfo(address _account) external view returns (bool, uint8)"
+// const abi = [
+// // ABI snippet for getStakeholderInfo
+// const yourAddress = "0x0B08F2639Ff1bDc4AA855C640E4273EB1397A93f";
+// const contractAddress = "0x363E5231B0fED6A3dABEc682bD1233a879d267c9";
+// // In browser console
+.load test.js
+console.log("Role:", role); // Should be 0 for Farmer
+console.log("Is registered:", isRegistered);
+const [isRegistered, role] = await contract.getStakeholderInfo(yourAddress);
+// Check registration
+const contract = new ethers.Contract(contractAddress, abi, provider);
+const provider = new ethers.BrowserProvider(window.ethereum);
+// Connect to contract
+];
+    "function getStakeholderInfo(address _account) external view returns (bool, uint8)"
+const abi = [
+// ABI snippet for getStakeholderInfo
+const yourAddress = "0x0B08F2639Ff1bDc4AA855C640E4273EB1397A93f";
+const contractAddress = "0x363E5231B0fED6A3dABEc682bD1233a879d267c9";
+// In browser console
+.load test.js
+. load test
+. load test.js
+.load
+console.log("Role:", role); // Should be 0 for Farmer
+console.log("Is registered:", isRegistered);
+const [isRegistered, role] = await contract.getStakeholderInfo(yourAddress);
+// Check registration
+const contract = new ethers.Contract(contractAddress, abi, provider);
+const provider = new ethers.BrowserProvider(window.ethereum);
+// Connect to contract
+];
+  "function getStakeholderInfo(address _account) external view returns (bool, uint8)"
+const abi = [
+// ABI snippet for getStakeholderInfo
+const yourAddress = "0x0B08F2639Ff1bDc4AA855C640E4273EB1397A93f";
+const contractAddress = "0x363E5231B0fED6A3dABEc682bD1233a879d267c9";
+// In browser console
+.editor
+.help
+console.log("Registration
+await supplyChain.registerStakeholder(yourAddress, 0);
+// Register as Farmer (role 0)
+const yourAddress = "0x0b08f2639ff1bdc4aa855c640e4273eb1397a93f";
+// Replace with your wallet address
+const supplyChain = await SupplyChain.attach("0x363E5231B0fED6A3dABEc682bD1233a879d267c9");
+const SupplyChain = await ethers.getContractFactory("SupplyChain");
